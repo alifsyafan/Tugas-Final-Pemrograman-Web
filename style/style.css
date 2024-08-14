@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+nav
+{
+    background-color: #7952b3 !important;
+}
+
+.font-header
+{
+    font-family: 'Rubik', sans-serif;
+    font-size: 50px;
+}
+
+.pokeball
+{
+    width: 200px;
+    text-align: center;
+}
+
+#poke-img
+{
+    width: 300px;
+}
+
+.skills{
+    background-color: #7952b3;
+}
+
+.tombol-poke{
+    background-color: #7952b3;
+    color: white;
+}
+
+.tombol-liat{
+    background-color: white;
+    color: #7952b3;
+    font-weight: bold;
+    border: #7952b3 solid 2px;
+}
+
+#berat-text {
+    color: #7952b3;
+    font-weight: bold;
+}
+
+#poke-name-detail{
+    color: #7952b3;
+    font-weight: bold;
+}
+
+.tombol-close
+{
+    background-color: white;
+    color: #7952b3;
+    font-weight: bold;
+    border: #7952b3 solid 2px;
+}
